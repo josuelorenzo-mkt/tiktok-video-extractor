@@ -1,0 +1,8 @@
+interface:
+  display_name: "TikTok Phase 1 Extractor"
+  short_description: "Extract public TikTok IDs and visible views"
+  default_prompt: "Use $tiktok-video-extractor to scan this authorized public TikTok profile and complete Fase 1."
+
+policy:
+  allow_implicit_invocation: true
+
